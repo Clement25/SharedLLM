@@ -1,0 +1,13 @@
+--tag test_ab_8k-prevdoc
+--do_train False
+--validation_file data/RP_sampled/ab_l8k_s5k/test
+--do_eval True
+--max_eval_samples 100
+--eval_window 256
+--chunk_size 4096
+--num_context 4
+--context_size 1024
+--bf16 True
+--torch_dtype bfloat16
+--per_device_eval_batch_size 1
+--report_to none

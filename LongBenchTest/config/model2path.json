@@ -1,0 +1,7 @@
+{
+    "llama3-8b-chat-8k": "/root/weihan/models/Meta-Llama-3-8B-Instruct/",
+    "llama2-7b-chat-4k": "/root/weihan/models/Llama-2-7b-chat-hf",
+    "longalpaca-16k": "/root/weihan/models/LongAlpaca-7B-16k",
+    "longalpaca-32k": "/root/weihan/models/LongAlpaca-7B-32k",
+    "sharedllm": "/path/to/model"
+}
