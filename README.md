@@ -1,7 +1,7 @@
 # SharedLLM
 
 ## Introduction
-This repository contains the core code of the paper "Two Are Better than One: Context Window Extension with Multi-Grained Self-Injection".
+This repository contains the core code of the paper "[Two Are Better than One: Context Window Extension with Multi-Grained Self-Injection](https://arxiv.org/pdf/2410.19318)".
 
 ## Usage
 
