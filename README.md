@@ -45,7 +45,7 @@ For evaluation on longbench and Infbench, please refer to their respective repos
 @misc{
   anonymous2025stacked,
   title={Stacked from One: Multi-Scale Self-Injection for Context Window Extension},
-  author={Wei Han, Pan Zhou, Shuichen Yan},
+  author={Han, Wei and Zhou, Pan and Yan, Shuicheng},
   year={2025},
   url={https://openreview.net/forum?id=w1Qpbkb7C6}
 }
