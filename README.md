@@ -42,14 +42,12 @@ For evaluation on longbench and Infbench, please refer to their respective repos
 
 ## Citation
 ```bibtex
-@misc{han2024betteronecontextwindow,
-      title={Two are better than one: Context window extension with multi-grained self-injection}, 
-      author={Wei Han and Pan Zhou and Soujanya Poria and Shuicheng Yan},
-      year={2024},
-      eprint={2410.19318},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.19318}, 
+@misc{
+  anonymous2025stacked,
+  title={Stacked from One: Multi-Scale Self-Injection for Context Window Extension},
+  author={Wei Han, Pan Zhou, Shuichen Yan},
+  year={2025},
+  url={https://openreview.net/forum?id=w1Qpbkb7C6}
 }
 ```
 If you have any further questions about this work, feel free to contact me via henryhan88888@gmail.com.
